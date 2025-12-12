@@ -1,0 +1,22 @@
+{
+  "name": "day26-ci-cd",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000a\u0000y\u00002\u00006\u0000-\u0000-\u0000C\u0000I\u0000-\u0000C\u0000D\u0000\r\u0000 \u0000#\u0000 \u0000D\u0000a\u0000y\u00002\u00006\u0000-\u0000-\u0000C\u0000I\u0000-\u0000C\u0000D\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adeola6388/Day26--CI-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adeola6388/Day26--CI-CD/issues"
+  },
+  "homepage": "https://github.com/Adeola6388/Day26--CI-CD#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.1"
+  }
+}
